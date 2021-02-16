@@ -1,0 +1,5 @@
+reference: https://arxiv.org/abs/2007.07497 
+Phase diagram for two-layer ReLU neural networks at infinite-width limit
+scalestudy1d_191224.py is for 1d examples.
+hdscalestudy200721.py is for high-d examples.
+If there is any difficulty in these codes, that is how to set up a proper learning rate, which can ensure the loss decaying in the whole training process and converge not too slowly.
